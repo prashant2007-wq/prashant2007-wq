@@ -35,13 +35,6 @@ I love exploring **Web Development**, **Programming**, and learning new technolo
 [![Instagram](https://img.shields.io/badge/-@prashant2007--wq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/praxxnnt_06?igsh=eGZtZzM3dWI4MGNp))
 [![Codeforces](https://img.shields.io/badge/Codeforces-praxxnnt06-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/praxxnnt06)
 
-
----
-
-### 📊 GitHub Stats
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant2007-wq&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant2007-wq&layout=compact&theme=tokyonight)
-
 ---
 
 ⭐️ *From [@prashant2007-wq](https://github.com/prashant2007-wq)*
