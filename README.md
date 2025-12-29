@@ -18,7 +18,28 @@ I love exploring **Web Development**, **Programming**, and learning new technolo
 ### 🧰 Tech Stack
 💻 **Languages:** HTML, CSS, JavaScript  
 🛠️ **Tools:** VS Code, Git, GitHub  
-🌐 **Interests:** Web Development, UI/UX Design, Open Source, Competitive coding 
+🌐 **Interests:** Web Development, UI/UX Design, Open Source, Competitive Coding  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashant2007-wq&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant2007-wq&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant2007-wq&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🏆 Codeforces Stats
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=praxxnnt06&theme=github_dark"/>
+</p>
 
 ---
 
@@ -31,8 +52,9 @@ I love exploring **Web Development**, **Programming**, and learning new technolo
 ---
 
 ### 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/-Prashant%20Bisht-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-s-bisht-27b846227/)
-[![Instagram](https://img.shields.io/badge/-@prashant2007--wq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praxxnnt_06?igsh=eGZtZzM3dWI4MGNp)
+[![Instagram](https://img.shields.io/badge/-@prashant2007--wq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praxxnnt_06)
 [![Codeforces](https://img.shields.io/badge/Codeforces-praxxnnt06-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/praxxnnt06)
 
 ---
