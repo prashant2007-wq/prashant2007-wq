@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Prashant Bisht!  
+# 👋 Hello, I'm Prashant Bisht! 
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 
