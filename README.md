@@ -4,7 +4,7 @@
    
 I'm a **student developer** passionate about technology, creativity, and solving problems through code.  
 I love exploring **Web Development**, **Programming**, and learning new technologies every day. 🚀    
-                            v 
+                            
 ---
 
 ### 💡 What I’m currently doing
