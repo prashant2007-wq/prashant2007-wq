@@ -6,7 +6,7 @@ I'm a **student developer** passionate about technology, creativity, and solving
 I love exploring **Web Development**, **Programming**, and learning new technologies every day. 🚀    
                               
 --- 
-  
+   
 ### 💡 What I’m currently doing 
 - 🧠 Learning JavaScript and building projects.
 - ⚙️ Exploring HTML, CSS, and React. 
