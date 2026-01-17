@@ -11,7 +11,7 @@ I love exploring **Web Development**, **Programming**, and learning new technolo
 - 🧠 Learning JavaScript and building projects.
 - ⚙️ Exploring HTML, CSS, and React. 
 - 🧩 Creating small web apps to sharpen my skills. 
-- 💬 Ask me about anything related to Web Development or Frontend Design.
+- 💬 Ask me about anything related to Web Development or Frontend Design. 
   
 ---
  
