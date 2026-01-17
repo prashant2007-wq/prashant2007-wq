@@ -22,7 +22,7 @@ I love exploring **Web Development**, **Programming**, and learning new technolo
 
 ---
 
-### 🏆 Codeforces Stats
+### 🏆 Codeforces Stats 
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=praxxnnt06&theme=github_dark"/>
