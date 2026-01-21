@@ -18,7 +18,7 @@ I love exploring **Web Development**, **Programming**, and learning new technolo
 ### 🧰 Tech Stack 
 💻 **Languages:** HTML, CSS, JavaScript  
 🛠️ **Tools:** VS Code, Git, GitHub  
-🌐 **Interests:** Web Development, UI/UX Design, Open Source, Competitive Coding  
+🌐 **Interests:** Web Development, UI/UX Design, Open Source, Competitive Coding   
 
 ---
 
