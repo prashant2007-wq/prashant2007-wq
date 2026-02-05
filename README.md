@@ -26,8 +26,11 @@ I love exploring **Web Development**, **Programming**, and learning new technolo
 
 <<p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=praxxnnt06&theme=github_dark" height="180"/>
-  
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant2007-wq&theme=github-dark" height="170"/>
+</p>
+
 
 
 ---
