@@ -1,55 +1,56 @@
-# 👋 Hello, I'm Prashant Singh Bisht!          
-                                                 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
-   
-I'm a **student developer** passionate about technology, creativity, and solving problems through code.   
-I love exploring **Web Development**, **Programming**, and learning new technologies every day. 🚀 
-                               
---- 
-    
-### 💡 What I’m currently doing 
-- 🧠 Learning JavaScript and building projects.
-- ⚙️ Exploring HTML, CSS, and React. 
-- 🧩 Creating small web apps to sharpen my skills. 
-- 💬 Ask me about anything related to Web Development or Frontend Design. 
-  
----
- 
-### 🧰 Tech Stack 
-💻 **Languages:** HTML, CSS, JavaScript  
-🛠️ **Tools:** VS Code, Git, GitHub  
-🌐 **Interests:** Web Development, UI/UX Design, Open Source, Competitive Coding   
+<img align="left" src="https://i.pinimg.com/1200x/37/0f/e9/370fe9f34f9a03835b33bda4cc78dc07.jpg" width="320"/>
 
----
+```csharp
+prashant2007-wq@github
+-------------------------
+OS: macOS / Linux (learning phase)
+Host: Student Developer
+Kernel: Building skills & consistency ⚙️
+Uptime: Daily grind mode 🚀
+Shell: bash / zsh
+Editor: VS Code
 
-### 🏆 Codeforces Stats 
+Name: Prashant Singh Bisht
+Role: Student Developer | Frontend Enthusiast
+Focus: Web Dev • Problem Solving • UI/UX
 
+Languages:
+  C • C++ • JavaScript • TypeScript
+  (Learning: React)
+
+Web Stack:
+  HTML • CSS • JavaScript
+  React (learning)
+
+Databases:
+  (Exploring soon...)
+
+Tools:
+  Git • GitHub • VS Code
+  Basic Linux • Browser DevTools
+```
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=praxxnnt067&theme=github_dark" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prashant2007-wq&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged,prs_merged_percentage,reviews,issues,contribs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant2007-wq&theme=github-dark" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashant2007-wq&theme=tokyonight"/>
+</p>
+
+<!-- Streak -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant2007-wq&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant2007-wq&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
-
----
-
-### 🌱 My Goals
-- 📚 Learn React and modern web frameworks.
-- 💡 Build creative and useful projects.
-- 🌍 Contribute to open source.
-- 🧑‍💻 Keep improving every single day.
-
----
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prashant2007-wq&theme=tokyonight"/>
+</p>
 
 ### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-Prashant%20Bisht-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-s-bisht-27b846227/)
-[![Instagram](https://img.shields.io/badge/-@prashant2007--wq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praxxnnt_06)
-[![Codeforces](https://img.shields.io/badge/Codeforces-praxxnnt06-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/praxxnnt06)
-
----
-
-⭐️ *From [@prashant2007-wq](https://github.com/prashant2007-wq)*
+[![LinkedIn](https://img.shields.io/badge/-Prashant%20Bisht-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-s-bisht-27b846227/) [![Instagram](https://img.shields.io/badge/-@prashant2007--wq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praxxnnt_06) [![Codeforces](https://img.shields.io/badge/Codeforces-praxxnnt06-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/praxxnnt06)
