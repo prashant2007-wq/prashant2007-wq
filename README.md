@@ -9,7 +9,7 @@ Kernel: Building skills & consistency ⚙️
 Uptime: Daily grind mode 🚀
 Shell: bash / zsh
 Editor: VS Code
-
+ 
 Name: Prashant Singh Bisht
 Role: Student Developer | Frontend Enthusiast 
 Focus: Web Dev • Problem Solving • UI/UX
