@@ -16,7 +16,7 @@ Focus: Web Dev • Problem Solving • UI/UX
  
 Languages:
   C • C++ • JavaScript • TypeScript
-  (Learning: React)
+  (Learning: React) 
 
 Web Stack:
   HTML • CSS • JavaScript
