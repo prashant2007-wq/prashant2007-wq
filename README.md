@@ -4,7 +4,7 @@
 prashant2007-wq@github
 -------------------------
 OS: macOS / Linux (learning phase)
-Host: Student Developer
+Host: Student Developer  
 Kernel: Building skills & consistency ⚙️
 Uptime: Daily grind mode 🚀
 Shell: bash / zsh
