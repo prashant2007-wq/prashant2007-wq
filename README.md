@@ -45,4 +45,20 @@ Tools:
 </p>
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-Prashant%20Bisht-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-s-bisht-27b846227/) [![Instagram](https://img.shields.io/badge/-@prashant2007--wq-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praxxnnt_06) [![Codeforces](https://img.shields.io/badge/Codeforces-praxxnnt06-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/praxxnnt06)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashant-s-bisht-27b846227/">
+    <img src="https://img.shields.io/badge/-Prashant%20Bisht-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/praxxnnt067">
+    <img src="https://img.shields.io/badge/-@prashant2007--wq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/praxxnnt06">
+    <img src="https://img.shields.io/badge/Codeforces-praxxnnt06-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/xOIeZFMItu/">
+    <img src="https://img.shields.io/badge/LeetCode-xOIeZFMItu-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/praxxnnt_06">
+    <img src="https://img.shields.io/badge/CodeChef-praxxnnt__06-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
