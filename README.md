@@ -29,26 +29,19 @@ Tools:
   Git • GitHub • VS Code
   Basic Linux • Browser DevTools
 ```
+### ✦ GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prashant2007-wq&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged,prs_merged_percentage,reviews,issues,contribs"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prashant2007-wq&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=prashant2007-wq&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashant2007-wq&theme=tokyonight"/>
-</p>
-
-<!-- Streak -->
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant2007-wq&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant2007-wq&theme=dark&background=000000&border=ffffff&dates=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" height="150" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://ghchart.rshah.org/prashant2007-wq" />
-</p>
-
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prashant2007-wq&theme=tokyonight"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashant2007-wq&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=ffffff" alt="GitHub Activity Graph" />
 </p>
 
 ### 📫 Connect with Me
