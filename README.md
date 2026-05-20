@@ -45,20 +45,31 @@ Tools:
 </p>
 
 ### 📫 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashant-s-bisht-27b846227/">
-    <img src="https://img.shields.io/badge/-Prashant%20Bisht-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/prashant-s-bisht-27b846227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prashant%20Bisht-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/praxxnnt067">
-    <img src="https://img.shields.io/badge/-@prashant2007--wq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://www.instagram.com/praxxnnt067" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@praxxnnt067-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://codeforces.com/profile/praxxnnt06">
-    <img src="https://img.shields.io/badge/Codeforces-praxxnnt06-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+  <a href="https://codeforces.com/profile/praxxnnt06" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-praxxnnt06-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://leetcode.com/u/xOIeZFMItu/">
-    <img src="https://img.shields.io/badge/LeetCode-xOIeZFMItu-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+  <a href="https://leetcode.com/u/xOIeZFMItu/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-xOIeZFMItu-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/praxxnnt_06">
-    <img src="https://img.shields.io/badge/CodeChef-praxxnnt__06-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+
+  <a href="https://www.codechef.com/users/praxxnnt_06" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-praxxnnt__06-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prashant2007-wq">
+    <img src="https://komarev.com/ghpvc/?username=prashant2007-wq&color=000000&style=flat&label=Profile+Views" alt="Profile Views" />
   </a>
 </p>
